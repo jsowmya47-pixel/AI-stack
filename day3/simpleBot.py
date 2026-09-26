@@ -16,4 +16,4 @@ while True:
             }
             ]
         )
-    print(response["message"]["content"])
+    print("AI:",response["message"]["content"])
